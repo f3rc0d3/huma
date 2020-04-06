@@ -12,6 +12,13 @@ AC86c94ba015132b26c113d8fc59dd24c4
 ### TEST ACCOUNT SID 
 AC9fbe864f1e8f3bb54a939d30124b10ae
 
+### Pesquisas levantadas
+### O microempreendedor em tempos de Coronavírus
+https://forms.gle/5jZJhriJm59K8HpA8
+
+### A disposição de profissionais em instruir pessoas impactadas pela crise do COVID-19
+https://forms.gle/D5fhSrH6A7xJuQNg8
+
 ### Para testar
 (+1) (415) 523-8886
 
