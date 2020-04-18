@@ -6,12 +6,6 @@ Aplicação utilizando APIs Twilio para resolver dores durante e após a crise d
 ### Nome do projeto
 Huma Engine
 
-### ACCOUNT SID 
-AC86c94ba015132b26c113d8fc59dd24c4
-
-### TEST ACCOUNT SID 
-AC9fbe864f1e8f3bb54a939d30124b10ae
-
 ### Pesquisas levantadas
 ### O microempreendedor em tempos de Coronavírus
 https://forms.gle/5jZJhriJm59K8HpA8
